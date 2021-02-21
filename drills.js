@@ -18,7 +18,7 @@ const URLify = (str) => {
   // O(n) linear: again the longer the array, the more we have to loop through and check.
 
   const maxSum = (arr) => {
-
+    //
   };
   //stuck on this one. I don't understand the idea of finding a "max sum"
 
@@ -30,6 +30,8 @@ const URLify = (str) => {
   // O(n) linear: the sort method makes this linear since the longer the array, the longer it will take
 
   const removeChar = (string, chars) => {
+    //replace characters and shift as you go
+
   };
   //  I'm floundering on this one!!! 
     console.log(removeChar("Battle of the Vowels: Hawaii vs. Grozny", "aeiou"));
